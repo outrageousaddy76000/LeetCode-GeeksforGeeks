@@ -13,10 +13,10 @@ public:
             double sum;
             if(i==0) sum= pre[j];
             else sum=pre[j]-pre[i-1];
-            ans=max(ans,sum/k);
+            ans=max(ans,sum);
             i++;
             j++;
         }
-        return ans;
+        return ans/k;
     }
 };
