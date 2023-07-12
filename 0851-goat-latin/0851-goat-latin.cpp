@@ -9,7 +9,7 @@ public:
         string ans="";
         stringstream ss(sentence);
         string word;
-        int cnt=1;
+        string add="a";
         while(ss>>word){
             if(isVowel(word[0])){
                 word+="ma";
@@ -20,10 +20,8 @@ public:
                 word+=c;
                 word+="ma";
             }
-            for(int i=0;i<cnt;i++){
-                word+='a';
-            }
-            cnt++;
+            word+=add;
+            add+='a';
             ans+=word;
             ans+=' ';
         }
