@@ -10,14 +10,7 @@ public:
         int check=0;
         for(;z>=2;z--){
             x=z-1,y=z-2;
-            while(y>=0){
-                if(nums[x--]+nums[y--]>nums[z]){
-                    ans=nums[x+1]+nums[y+1]+nums[z];
-                    check=1;
-                    break;
-                }
-            }
-            if(check) break;
+            if(nums[x]+nums[y]>nums[z]) return nums[x]+nums[y]+nums[z];
         }
         return ans;
     }
