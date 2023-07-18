@@ -9,19 +9,11 @@ public:
         return sum;
     }
     int countLargestGroup(int n) {
-        unordered_map <int,int> m;
+        vector <int> v(37);
         for(int i=1;i<=n;i++){
-            m[getDigits(i)]++;
+            v[getDigits(i)]++;
         }
-        int maxi=INT_MIN;
-        for(auto &pr:m){
-            int x = pr.second;
-            maxi= max(maxi,x);
-        }
-        int ans=0;
-        for(auto &pr:m){
-            if(pr.second==maxi) ans++;
-        }
-        return ans;
+        int maxi=*max_element(v.begin(),v.end());
+        return count(v.begin(),v.end(),maxi);
     }
 };
