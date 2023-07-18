@@ -15,9 +15,6 @@ public:
             }
             c[i]=maxi;
         }
-        for(auto &val:r) cout<<val<<" ";
-        cout<<endl;
-        for(auto &val:c) cout<<val<<" ";
         vector <int> ans;
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
