@@ -4,7 +4,7 @@ public:
         int n = students.size();
         int cnt1 = count(students.begin(),students.end(),0);
         int cnt2 = n-cnt1;
-        for(int i=0;i<sandwiches.size();i++){
+        for(int i=0;i<n;i++){
             if(sandwiches[i]==0){
                 cnt1--;
             }
