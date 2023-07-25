@@ -14,36 +14,33 @@ class Solution
 public:
     vector<int> rightSideView(TreeNode *root)
     {
+        //two ways last node of level in bfs
+        //preorder traversal right left node style and use max_level and curr_level
         vector<int> ans;
-        vector<pair<int, int>> lot; // Stores the nodes along with their levels
-
-        if (root == nullptr)
-            return ans;
-
-        queue<pair<TreeNode *, int>> q; // Queue to perform level order traversal
-        q.push({root, 0});              // Push the root node with level 0
-
-        while (!q.empty())
-        {
-            TreeNode *current = q.front().first;
-            int level = q.front().second;
-            q.pop();
-
-            lot.push_back({current->val, level}); // Store current node with its level
-
-            if (current->left)
-                q.push({current->left, level + 1}); // Push left child with level increased by 1
-
-            if (current->right)
-                q.push({current->right, level + 1}); // Push right child with level increased by 1
-        }
-
-        for(int i = 0; i < lot.size()-1; i++) {
-            if(lot[i].second != lot[i+1].second) {
-                ans.push_back(lot[i].first);
+        if(root==NULL) return ans;
+        //bfs
+        queue <pair<TreeNode *,int>> q;
+        q.push({root,0});
+        int level=0;
+        vector <int> v;
+        while(!q.empty()){
+            pair<TreeNode*,int> curr =  q.front();
+            if(level!=curr.second){
+                ans.push_back(v[v.size()-1]);
+                level++;
+                v.push_back(curr.first->val);
+                q.pop();
+                if(curr.first->left!=NULL) q.push({curr.first->left,level+1});
+                if(curr.first->right!=NULL) q.push({curr.first->right,level+1});
+            }
+            else{
+                v.push_back(curr.first->val);
+                q.pop();
+                if(curr.first->left!=NULL) q.push({curr.first->left,level+1});
+                if(curr.first->right!=NULL) q.push({curr.first->right,level+1});
             }
         }
-        ans.push_back(lot[lot.size()-1].first);
+        if(v.size()) ans.push_back(v[v.size()-1]);
         return ans;
     }
 };
