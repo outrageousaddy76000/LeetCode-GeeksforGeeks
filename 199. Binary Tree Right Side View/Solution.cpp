@@ -40,7 +40,7 @@ public:
                 if(curr.first->right!=NULL) q.push({curr.first->right,level+1});
             }
         }
-        if(v.size()) ans.push_back(v[v.size()-1]);
+        ans.push_back(v[v.size()-1]);
         return ans;
     }
 };
