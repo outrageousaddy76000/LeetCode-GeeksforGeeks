@@ -27,3 +27,8 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0001-two-sum) |
+| [0162-find-peak-element](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0162-find-peak-element) |
+# Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0162-find-peak-element) |
