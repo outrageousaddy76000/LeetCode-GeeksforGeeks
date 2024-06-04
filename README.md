@@ -21,4 +21,9 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 # Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0001-two-sum) |
 | [0409-longest-palindrome](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0409-longest-palindrome) |
+# Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0001-two-sum) |
