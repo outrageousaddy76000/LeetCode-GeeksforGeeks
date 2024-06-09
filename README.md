@@ -27,6 +27,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0001-two-sum](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0001-two-sum) |
 | [0409-longest-palindrome](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0409-longest-palindrome) |
 | [0876-hand-of-straights](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0876-hand-of-straights) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1044-find-common-characters) |
 # Array
 |  |
@@ -35,6 +36,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0162-find-peak-element](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0162-find-peak-element) |
 | [0875-longest-mountain-in-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0875-longest-mountain-in-array) |
 | [0876-hand-of-straights](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0876-hand-of-straights) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1044-find-common-characters) |
 # Binary Search
 |  |
@@ -52,3 +54,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0875-longest-mountain-in-array) |
+# Prefix Sum
+|  |
+| ------- |
+| [1016-subarray-sums-divisible-by-k](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1016-subarray-sums-divisible-by-k) |
