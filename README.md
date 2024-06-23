@@ -44,6 +44,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1044-find-common-characters](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1044-find-common-characters) |
 | [1138-grumpy-bookstore-owner](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1217-relative-sort-array) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Binary Search
 |  |
@@ -77,3 +78,20 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1138-grumpy-bookstore-owner) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Queue
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Ordered Set
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Monotonic Queue
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
