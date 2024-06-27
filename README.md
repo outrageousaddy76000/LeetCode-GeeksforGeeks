@@ -95,3 +95,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1916-find-center-of-star-graph) |
