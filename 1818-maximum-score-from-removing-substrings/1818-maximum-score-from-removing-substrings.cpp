@@ -1,44 +1,43 @@
 class Solution {
 public:
     int maximumGain(string s, int x, int y) {
-        int res = 0;
-        string top, bot;
-        int top_score, bot_score;
-
-        if (y > x) {
-            top = "ba";
-            top_score = y;
-            bot = "ab";
-            bot_score = x;
-        } else {
-            top = "ab";
-            top_score = x;
-            bot = "ba";
-            bot_score = y;
+        // Ensure "ab" always has more points than "ba"
+        if (x < y) {
+            // Swap points
+            int temp = x;
+            x = y;
+            y = temp;
+            // Reverse the string to maintain logic
+            reverse(s.begin(), s.end());
         }
 
-        // Removing first top substrings cause they give more points
-        vector<char> stack;
-        for (char ch : s) {  // Changed 'char' to 'ch'
-            if (ch == top[1] && !stack.empty() && stack.back() == top[0]) {
-                res += top_score;
-                stack.pop_back();
+        int aCount = 0, bCount = 0, totalPoints = 0;
+
+        for (int i = 0; i < s.size(); ++i) {
+            char currentChar = s[i];
+
+            if (currentChar == 'a') {
+                ++aCount;
+            } else if (currentChar == 'b') {
+                if (aCount > 0) {
+                    // Can form "ab", remove it and add points
+                    --aCount;
+                    totalPoints += x;
+                } else {
+                    // Can't form "ab", keep 'b' for potential future "ba"
+                    ++bCount;
+                }
             } else {
-                stack.push_back(ch);
+                // Non 'a' or 'b' character encountered
+                // Calculate points for any remaining "ba" pairs
+                totalPoints += min(bCount, aCount) * y;
+                // Reset counters for next segment
+                aCount = bCount = 0;
             }
         }
+        // Calculate points for any remaining "ba" pairs at the end
+        totalPoints += min(bCount, aCount) * y;
 
-        // Removing bot substrings cause they give less or equal amount of scores
-        vector<char> new_stack;
-        for (char ch : stack) {  // Changed 'char' to 'ch'
-            if (ch == bot[1] && !new_stack.empty() && new_stack.back() == bot[0]) {
-                res += bot_score;
-                new_stack.pop_back();
-            } else {
-                new_stack.push_back(ch);
-            }
-        }
-
-        return res;
+        return totalPoints;
     }
 };
