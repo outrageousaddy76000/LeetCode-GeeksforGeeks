@@ -17,7 +17,6 @@ public:
         vector <pair<int,pair<int,int>>> v;
         for(int i=0;i<nums.size();i++){
             v.push_back(make_pair(i,make_pair(nums[i],mapped(nums[i],mapping))));
-            cout<<mapped(nums[i],mapping)<<endl;
         }
         sort(v.begin(),v.end(),[](const pair<int,pair<int,int>> &a, const pair <int,pair<int,int>> &b){
             if(a.second.second==b.second.second){
