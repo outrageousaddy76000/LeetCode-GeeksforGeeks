@@ -27,7 +27,6 @@ public:
             cnt=1;
             cnt2=1;
         }
-        cout<<s<<endl;
         return ans;
     }
 };
