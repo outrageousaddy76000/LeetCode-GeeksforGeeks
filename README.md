@@ -138,6 +138,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1720-crawler-log-folder](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1720-crawler-log-folder) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2502-sort-the-people) |
@@ -150,6 +151,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1308-smallest-string-with-swaps](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1308-smallest-string-with-swaps) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2502-sort-the-people) |
 ## Two Pointers
@@ -227,6 +229,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2727-number-of-senior-citizens) |
@@ -276,6 +279,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0948-sort-an-array) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
