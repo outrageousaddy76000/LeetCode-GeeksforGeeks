@@ -129,6 +129,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0064-minimum-path-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0526-beautiful-arrangement](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0526-beautiful-arrangement) |
+| [0909-stone-game](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0909-stone-game) |
 | [0948-sort-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0948-sort-an-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1025-minimum-cost-for-tickets) |
 | [1121-partition-array-for-maximum-sum](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1121-partition-array-for-maximum-sum) |
@@ -212,6 +213,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0670-maximum-swap) |
+| [0909-stone-game](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0909-stone-game) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2645-pass-the-pillow) |
@@ -294,6 +296,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | ------- |
 | [0064-minimum-path-sum](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0064-minimum-path-sum) |
 | [0526-beautiful-arrangement](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0526-beautiful-arrangement) |
+| [0909-stone-game](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0909-stone-game) |
 | [1025-minimum-cost-for-tickets](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1025-minimum-cost-for-tickets) |
 | [1121-partition-array-for-maximum-sum](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1121-partition-array-for-maximum-sum) |
 | [1196-filling-bookcase-shelves](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1196-filling-bookcase-shelves) |
@@ -334,4 +337,8 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0526-beautiful-arrangement) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
