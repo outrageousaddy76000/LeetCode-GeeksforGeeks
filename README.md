@@ -126,6 +126,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0064-minimum-path-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0948-sort-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0948-sort-an-array) |
 | [1121-partition-array-for-maximum-sum](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1121-partition-array-for-maximum-sum) |
@@ -289,6 +290,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0064-minimum-path-sum) |
 | [1121-partition-array-for-maximum-sum](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1121-partition-array-for-maximum-sum) |
 | [1196-filling-bookcase-shelves](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -314,5 +316,6 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0064-minimum-path-sum) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 <!---LeetCode Topics End-->
