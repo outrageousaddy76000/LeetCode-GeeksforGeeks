@@ -128,6 +128,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0948-sort-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0948-sort-an-array) |
+| [1121-partition-array-for-maximum-sum](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1121-partition-array-for-maximum-sum) |
 | [1196-filling-bookcase-shelves](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1196-filling-bookcase-shelves) |
 | [1308-smallest-string-with-swaps](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1308-smallest-string-with-swaps) |
 | [1333-sort-the-jumbled-numbers](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1333-sort-the-jumbled-numbers) |
@@ -288,6 +289,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [1121-partition-array-for-maximum-sum](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1121-partition-array-for-maximum-sum) |
 | [1196-filling-bookcase-shelves](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1511-count-number-of-teams) |
