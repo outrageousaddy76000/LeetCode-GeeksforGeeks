@@ -27,7 +27,7 @@ public:
     }
     int averageOfSubtree(TreeNode* root) {
         ans=0;
-        pair <int,int> start = helper(root);
+        helper(root);
         return ans;
     }
 };
