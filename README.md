@@ -105,6 +105,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0999-regions-cut-by-slashes](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0999-regions-cut-by-slashes) |
 | [1285-balance-a-binary-search-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1285-balance-a-binary-search-tree) |
 | [1308-smallest-string-with-swaps](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1308-smallest-string-with-swaps) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -113,6 +114,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0999-regions-cut-by-slashes](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0999-regions-cut-by-slashes) |
 | [1308-smallest-string-with-swaps](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1308-smallest-string-with-swaps) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Graph
@@ -138,6 +140,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0909-stone-game](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0909-stone-game) |
 | [0926-find-and-replace-pattern](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0926-find-and-replace-pattern) |
 | [0948-sort-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0948-sort-an-array) |
+| [0999-regions-cut-by-slashes](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0999-regions-cut-by-slashes) |
 | [1025-minimum-cost-for-tickets](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1025-minimum-cost-for-tickets) |
 | [1121-partition-array-for-maximum-sum](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1121-partition-array-for-maximum-sum) |
 | [1196-filling-bookcase-shelves](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1196-filling-bookcase-shelves) |
@@ -164,6 +167,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0870-magic-squares-in-grid](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0870-magic-squares-in-grid) |
 | [0926-find-and-replace-pattern](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0926-find-and-replace-pattern) |
+| [0999-regions-cut-by-slashes](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0999-regions-cut-by-slashes) |
 | [1308-smallest-string-with-swaps](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1308-smallest-string-with-swaps) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -351,6 +355,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 ## Union Find
 |  |
 | ------- |
+| [0999-regions-cut-by-slashes](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0999-regions-cut-by-slashes) |
 | [1308-smallest-string-with-swaps](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1308-smallest-string-with-swaps) |
 ## Matrix
 |  |
@@ -358,6 +363,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0064-minimum-path-sum) |
 | [0870-magic-squares-in-grid](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0870-magic-squares-in-grid) |
+| [0999-regions-cut-by-slashes](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0999-regions-cut-by-slashes) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 ## Backtracking
 |  |
