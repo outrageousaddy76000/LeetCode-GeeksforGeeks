@@ -105,6 +105,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0365-water-and-jug-problem](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0365-water-and-jug-problem) |
 | [0999-regions-cut-by-slashes](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0999-regions-cut-by-slashes) |
 | [1285-balance-a-binary-search-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1285-balance-a-binary-search-tree) |
 | [1308-smallest-string-with-swaps](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1308-smallest-string-with-swaps) |
@@ -115,6 +116,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0365-water-and-jug-problem](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0365-water-and-jug-problem) |
 | [0999-regions-cut-by-slashes](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0999-regions-cut-by-slashes) |
 | [1308-smallest-string-with-swaps](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1308-smallest-string-with-swaps) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -243,6 +245,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0172-factorial-trailing-zeroes](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0189-rotate-array) |
 | [0273-integer-to-english-words](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0273-integer-to-english-words) |
+| [0365-water-and-jug-problem](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0365-water-and-jug-problem) |
 | [0670-maximum-swap](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0870-magic-squares-in-grid) |
 | [0909-stone-game](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0909-stone-game) |
