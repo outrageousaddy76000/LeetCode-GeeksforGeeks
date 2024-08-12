@@ -2,13 +2,9 @@ class Solution {
 public:
     int trailingZeroes(int n) {
         int ans=0;
-        for(int i=5;i<=n;i+=5){
-            int cnt=0;
-            int temp = i;
-            while(temp%5==0){
-                ans++;
-                temp/=5;
-            }
+        while (n >= 5) {
+            ans += (n / 5);
+            n /= 5;
         }
         return ans;
     }
