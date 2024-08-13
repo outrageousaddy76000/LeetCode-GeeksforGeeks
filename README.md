@@ -134,6 +134,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0064-minimum-path-sum) |
@@ -389,6 +390,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0047-permutations-ii) |
 | [0526-beautiful-arrangement](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0526-beautiful-arrangement) |
 ## Bit Manipulation
