@@ -142,6 +142,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0526-beautiful-arrangement](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0526-beautiful-arrangement) |
+| [0624-maximum-distance-in-arrays](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0624-maximum-distance-in-arrays) |
 | [0654-maximum-binary-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0654-maximum-binary-tree) |
 | [0870-magic-squares-in-grid](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0870-magic-squares-in-grid) |
 | [0909-stone-game](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0909-stone-game) |
@@ -215,6 +216,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0179-largest-number) |
+| [0624-maximum-distance-in-arrays](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0624-maximum-distance-in-arrays) |
 | [0670-maximum-swap](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0670-maximum-swap) |
 | [1285-balance-a-binary-search-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1285-balance-a-binary-search-tree) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1369-minimum-swaps-to-make-strings-equal) |
