@@ -272,6 +272,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0179-largest-number](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0187-repeated-dna-sequences) |
 | [0273-integer-to-english-words](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0273-integer-to-english-words) |
+| [0664-strange-printer](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0664-strange-printer) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0926-find-and-replace-pattern](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0926-find-and-replace-pattern) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -354,6 +355,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | ------- |
 | [0064-minimum-path-sum](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0064-minimum-path-sum) |
 | [0526-beautiful-arrangement](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0526-beautiful-arrangement) |
+| [0664-strange-printer](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0664-strange-printer) |
 | [0909-stone-game](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0909-stone-game) |
 | [1025-minimum-cost-for-tickets](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1025-minimum-cost-for-tickets) |
 | [1121-partition-array-for-maximum-sum](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1121-partition-array-for-maximum-sum) |
