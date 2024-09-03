@@ -162,6 +162,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1333-sort-the-jumbled-numbers](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1333-sort-the-jumbled-numbers) |
 | [1511-count-number-of-teams](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1582-design-browser-history](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1582-design-browser-history) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
@@ -241,6 +242,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [1582-design-browser-history](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1582-design-browser-history) |
 | [1765-merge-in-between-linked-lists](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1765-merge-in-between-linked-lists) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
@@ -314,6 +316,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0654-maximum-binary-tree) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1582-design-browser-history](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1582-design-browser-history) |
 | [1720-crawler-log-folder](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -453,10 +456,12 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1582-design-browser-history](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1582-design-browser-history) |
 ## Data Stream
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1582-design-browser-history](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1582-design-browser-history) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -469,4 +474,8 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
