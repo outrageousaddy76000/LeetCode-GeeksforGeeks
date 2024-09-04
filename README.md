@@ -150,6 +150,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0624-maximum-distance-in-arrays](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0624-maximum-distance-in-arrays) |
 | [0654-maximum-binary-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0654-maximum-binary-tree) |
 | [0870-magic-squares-in-grid](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0870-magic-squares-in-grid) |
+| [0906-walking-robot-simulation](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0906-walking-robot-simulation) |
 | [0909-stone-game](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0909-stone-game) |
 | [0926-find-and-replace-pattern](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0926-find-and-replace-pattern) |
 | [0948-sort-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0948-sort-an-array) |
@@ -187,6 +188,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0187-repeated-dna-sequences](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0187-repeated-dna-sequences) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0870-magic-squares-in-grid](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0870-magic-squares-in-grid) |
+| [0906-walking-robot-simulation](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0906-walking-robot-simulation) |
 | [0926-find-and-replace-pattern](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0926-find-and-replace-pattern) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0999-regions-cut-by-slashes) |
@@ -252,6 +254,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0043-multiply-strings](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0054-spiral-matrix) |
 | [0592-fraction-addition-and-subtraction](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0592-fraction-addition-and-subtraction) |
+| [0906-walking-robot-simulation](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0906-walking-robot-simulation) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2076-sum-of-digits-of-string-after-convert) |
