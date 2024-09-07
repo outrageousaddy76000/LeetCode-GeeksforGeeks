@@ -111,6 +111,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1285-balance-a-binary-search-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1285-balance-a-binary-search-tree) |
 | [1308-smallest-string-with-swaps](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1308-smallest-string-with-swaps) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1484-linked-list-in-binary-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2035-count-sub-islands) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -122,6 +123,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0999-regions-cut-by-slashes](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0999-regions-cut-by-slashes) |
 | [1308-smallest-string-with-swaps](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1308-smallest-string-with-swaps) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1484-linked-list-in-binary-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2035-count-sub-islands) |
 ## Graph
@@ -247,6 +249,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1484-linked-list-in-binary-tree) |
 | [1582-design-browser-history](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1582-design-browser-history) |
 | [1765-merge-in-between-linked-lists](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1765-merge-in-between-linked-lists) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -338,6 +341,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0654-maximum-binary-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0654-maximum-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1285-balance-a-binary-search-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1285-balance-a-binary-search-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1484-linked-list-in-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -348,6 +352,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0654-maximum-binary-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0654-maximum-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1285-balance-a-binary-search-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1285-balance-a-binary-search-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1484-linked-list-in-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
