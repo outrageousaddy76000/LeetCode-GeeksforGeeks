@@ -249,6 +249,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0725-split-linked-list-in-parts](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1484-linked-list-in-binary-tree) |
 | [1582-design-browser-history](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1582-design-browser-history) |
 | [1765-merge-in-between-linked-lists](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1765-merge-in-between-linked-lists) |
