@@ -28,8 +28,8 @@ public:
                 num++;
                 extra--;
             }
-            if(ptr!=NULL){ 
-                ans.push_back(ptr);    
+            ans.push_back(ptr);
+            if(ptr!=NULL){   
                 for(int j=0;j<num-1;j++){
                     ptr=ptr->next;
                 }
@@ -37,7 +37,6 @@ public:
                 ptr=ptr->next;
                 temp->next=NULL;
             }
-            else ans.push_back(NULL);
         }
         return ans;
     }
