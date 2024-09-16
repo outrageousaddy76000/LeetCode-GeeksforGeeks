@@ -149,6 +149,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0526-beautiful-arrangement](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0526-beautiful-arrangement) |
+| [0539-minimum-time-difference](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0624-maximum-distance-in-arrays) |
 | [0654-maximum-binary-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0654-maximum-binary-tree) |
 | [0870-magic-squares-in-grid](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0870-magic-squares-in-grid) |
@@ -225,6 +226,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | ------- |
 | [0179-largest-number](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0539-minimum-time-difference](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0539-minimum-time-difference) |
 | [0948-sort-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0948-sort-an-array) |
 | [1308-smallest-string-with-swaps](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1308-smallest-string-with-swaps) |
 | [1333-sort-the-jumbled-numbers](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1333-sort-the-jumbled-numbers) |
@@ -283,6 +285,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0189-rotate-array) |
 | [0273-integer-to-english-words](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0273-integer-to-english-words) |
 | [0365-water-and-jug-problem](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0365-water-and-jug-problem) |
+| [0539-minimum-time-difference](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0592-fraction-addition-and-subtraction) |
 | [0670-maximum-swap](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0870-magic-squares-in-grid) |
@@ -308,6 +311,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0179-largest-number](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0187-repeated-dna-sequences) |
 | [0273-integer-to-english-words](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0273-integer-to-english-words) |
+| [0539-minimum-time-difference](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0664-strange-printer) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0793-swap-adjacent-in-lr-string) |
