@@ -284,6 +284,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0043-multiply-strings](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0043-multiply-strings) |
 | [0172-factorial-trailing-zeroes](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0189-rotate-array) |
+| [0241-different-ways-to-add-parentheses](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0273-integer-to-english-words) |
 | [0365-water-and-jug-problem](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0365-water-and-jug-problem) |
 | [0539-minimum-time-difference](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0539-minimum-time-difference) |
@@ -298,6 +299,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -311,6 +313,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0043-multiply-strings](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0043-multiply-strings) |
 | [0179-largest-number](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0187-repeated-dna-sequences) |
+| [0241-different-ways-to-add-parentheses](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0592-fraction-addition-and-subtraction) |
@@ -405,6 +408,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0064-minimum-path-sum) |
+| [0241-different-ways-to-add-parentheses](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0241-different-ways-to-add-parentheses) |
 | [0526-beautiful-arrangement](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0526-beautiful-arrangement) |
 | [0664-strange-printer](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0664-strange-printer) |
 | [0909-stone-game](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0909-stone-game) |
@@ -513,4 +517,8 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2324-find-triangular-sum-of-an-array) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
