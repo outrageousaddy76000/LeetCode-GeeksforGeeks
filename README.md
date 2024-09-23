@@ -299,6 +299,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1240-stone-game-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1240-stone-game-ii) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1522-stone-game-iii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1617-stone-game-iv) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2645-pass-the-pillow](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2645-pass-the-pillow) |
@@ -426,6 +427,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1511-count-number-of-teams) |
 | [1522-stone-game-iii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1617-stone-game-iv) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2755-extra-characters-in-a-string](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2755-extra-characters-in-a-string) |
 ## Shortest Path
@@ -486,6 +488,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0909-stone-game](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1617-stone-game-iv) |
 ## Monotonic Stack
 |  |
 | ------- |
