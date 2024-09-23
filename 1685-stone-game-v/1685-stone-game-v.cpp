@@ -13,16 +13,15 @@ private:
             else sf=pre[i]-pre[start-1];
             sl=pre[end]-pre[i];
             if(sl==sf){
-                curr=sl+max(helper(start,i,stones,pre),helper(i+1,end,stones,pre));
+                curr=max(helper(start,i,stones,pre),helper(i+1,end,stones,pre));
             }
             else if(sf<sl){
-                curr=sf+helper(start,i,stones,pre);
+                curr=helper(start,i,stones,pre);
             }
             else{
-                curr=sl+helper(i+1,end,stones,pre);
+                curr=helper(i+1,end,stones,pre);
             }
-            // cout<<start<<" "<<end<<" "<<ans<<endl;
-            ans=max(ans,curr);
+            ans=max(ans,min(sf,sl)+curr);
         }
         return dp[start][end]=ans;
     }
