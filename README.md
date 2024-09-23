@@ -161,6 +161,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1025-minimum-cost-for-tickets](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1025-minimum-cost-for-tickets) |
 | [1121-partition-array-for-maximum-sum](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1121-partition-array-for-maximum-sum) |
 | [1196-filling-bookcase-shelves](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1196-filling-bookcase-shelves) |
+| [1240-stone-game-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1240-stone-game-ii) |
 | [1308-smallest-string-with-swaps](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1308-smallest-string-with-swaps) |
 | [1325-path-with-maximum-probability](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1333-sort-the-jumbled-numbers) |
@@ -294,6 +295,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0670-maximum-swap](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0870-magic-squares-in-grid) |
 | [0909-stone-game](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0909-stone-game) |
+| [1240-stone-game-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1240-stone-game-ii) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -418,6 +420,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1025-minimum-cost-for-tickets](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1025-minimum-cost-for-tickets) |
 | [1121-partition-array-for-maximum-sum](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1121-partition-array-for-maximum-sum) |
 | [1196-filling-bookcase-shelves](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1196-filling-bookcase-shelves) |
+| [1240-stone-game-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1240-stone-game-ii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -478,6 +481,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0909-stone-game) |
+| [1240-stone-game-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1240-stone-game-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -512,6 +516,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [1240-stone-game-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1240-stone-game-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Doubly-Linked List
 |  |
