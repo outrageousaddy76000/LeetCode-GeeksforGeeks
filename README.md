@@ -189,6 +189,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [2324-find-triangular-sum-of-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2411-spiral-matrix-iv) |
 | [2502-sort-the-people](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2502-sort-the-people) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2727-number-of-senior-citizens](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2755-extra-characters-in-a-string) |
 | [2846-robot-collisions](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2846-robot-collisions) |
@@ -215,6 +216,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [2163-kth-distinct-string-in-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2502-sort-the-people) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -228,6 +230,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
 | ------- |
@@ -248,6 +251,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2502-sort-the-people](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2502-sort-the-people) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2846-robot-collisions](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2846-robot-collisions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
