@@ -185,6 +185,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [2035-count-sub-islands](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -493,12 +494,14 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0040-combination-sum-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0047-permutations-ii) |
 | [0526-beautiful-arrangement](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0526-beautiful-arrangement) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0187-repeated-dna-sequences) |
 | [0526-beautiful-arrangement](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0526-beautiful-arrangement) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Bitmask
@@ -568,4 +571,8 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | ------- |
 | [2755-extra-characters-in-a-string](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
