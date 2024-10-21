@@ -7,6 +7,7 @@ private:
     int ans;
     void helper(string s, int index, unordered_set <string> taken){
         if(index==s.size()) ans=max(ans,taken.size());
+        if(s.size()-index+taken.size()<=ans) return;
         for(int len=1;index+len<=s.size();len++){
             string curr = s.substr(index,len);
             if(taken.find(curr)==taken.end()){
