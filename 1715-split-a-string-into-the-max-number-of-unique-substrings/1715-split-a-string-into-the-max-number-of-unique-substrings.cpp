@@ -5,7 +5,7 @@ private:
         return b;
     }
     int ans;
-    void helper(string s, int index, set <string> taken){
+    void helper(string s, int index, unordered_set <string> taken){
         if(index==s.size()) ans=max(ans,taken.size());
         for(int len=1;index+len<=s.size();len++){
             string curr = s.substr(index,len);
@@ -20,7 +20,7 @@ private:
 public:
     int maxUniqueSplit(string s) {
         ans=0;
-        set <string> taken;
+        unordered_set <string> taken;
         helper(s,0,taken);
         return ans;
     }
