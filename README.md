@@ -214,6 +214,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1308-smallest-string-with-swaps](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1308-smallest-string-with-swaps) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -351,6 +352,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1308-smallest-string-with-swaps](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1308-smallest-string-with-swaps) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1369-minimum-swaps-to-make-strings-equal) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1720-crawler-log-folder](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -497,6 +499,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0040-combination-sum-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0047-permutations-ii) |
 | [0526-beautiful-arrangement](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0526-beautiful-arrangement) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
