@@ -208,6 +208,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -500,6 +501,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0187-repeated-dna-sequences) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Union Find
 |  |
 | ------- |
