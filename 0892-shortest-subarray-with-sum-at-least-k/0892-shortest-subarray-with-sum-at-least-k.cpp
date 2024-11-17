@@ -26,7 +26,6 @@ public:
                                 ans=min(ans,i-start+1);
                             }
                             else{
-                                //saara pseudo drop krke check krke break
                                 int start2=i-1;
                                 int sum2=nums[i];
                                 while(start2>start){
