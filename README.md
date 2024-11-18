@@ -242,6 +242,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0061-rotate-list) |
 | [0189-rotate-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0793-swap-adjacent-in-lr-string) |
@@ -302,6 +303,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0061-rotate-list) |
 | [0725-split-linked-list-in-parts](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1484-linked-list-in-binary-tree) |
 | [1582-design-browser-history](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1582-design-browser-history) |
