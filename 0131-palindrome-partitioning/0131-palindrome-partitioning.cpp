@@ -7,9 +7,10 @@ private:
         return true;
     }
 public:
+    map <int,vector<vector<string>>> m;
     vector<vector<string>> partition(string s) {
-        // cout<<s<<endl;
         vector<vector<string>> ans;
+        if(m.find(s.size())!=m.end()) return m[s.size()];
         for(int i=0;i<s.size();i++){
             string curr = s.substr(0,i+1);
             if(isPal(curr)){
@@ -30,6 +31,6 @@ public:
                 }
             }
         }
-        return ans;
+        return m[s.size()]=ans;
     }
 };
