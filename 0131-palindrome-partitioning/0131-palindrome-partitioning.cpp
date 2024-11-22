@@ -7,7 +7,7 @@ private:
         return true;
     }
 public:
-    map <int,vector<vector<string>>> m;
+    unordered_map <int,vector<vector<string>>> m;
     vector<vector<string>> partition(string s) {
         vector<vector<string>> ans;
         if(m.find(s.size())!=m.end()) return m[s.size()];
