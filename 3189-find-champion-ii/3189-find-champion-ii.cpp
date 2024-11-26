@@ -2,10 +2,9 @@ class Solution {
 public:
     int findChampion(int n, vector<vector<int>>& edges) {
         if(n==1) return 0;
-        unordered_map <int,int> m;
+        vector <int> m(n,0);
         for(auto &val:edges){
             m[val[1]]++;
-            m[val[0]]=m[val[0]];
         }
         int cnt=0;
         int ans=-1;
@@ -13,7 +12,7 @@ public:
             if(m[i]==0){
                 cnt++;
                 ans=i;
-                if(cnt>1) ans=-1;
+                if(cnt>1) return -1;
             }
         }
         return ans;
