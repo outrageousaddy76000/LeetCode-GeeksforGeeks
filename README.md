@@ -185,6 +185,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1333-sort-the-jumbled-numbers](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1333-sort-the-jumbled-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1511-count-number-of-teams) |
 | [1522-stone-game-iii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1522-stone-game-iii) |
@@ -238,6 +239,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0999-regions-cut-by-slashes](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0999-regions-cut-by-slashes) |
 | [1256-rank-transform-of-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1256-rank-transform-of-an-array) |
 | [1308-smallest-string-with-swaps](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1308-smallest-string-with-swaps) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -259,6 +261,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0793-swap-adjacent-in-lr-string) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
@@ -271,6 +274,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -287,6 +291,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1256-rank-transform-of-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1256-rank-transform-of-an-array) |
 | [1308-smallest-string-with-swaps](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1308-smallest-string-with-swaps) |
 | [1333-sort-the-jumbled-numbers](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1333-sort-the-jumbled-numbers) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
