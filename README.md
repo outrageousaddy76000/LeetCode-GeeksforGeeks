@@ -200,6 +200,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1720-crawler-log-folder](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2035-count-sub-islands) |
@@ -282,6 +283,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1468-check-if-n-and-its-double-exist](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
