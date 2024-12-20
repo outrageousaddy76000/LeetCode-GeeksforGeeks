@@ -118,6 +118,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [2035-count-sub-islands](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2035-count-sub-islands) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
@@ -130,6 +131,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1484-linked-list-in-binary-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2035-count-sub-islands) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -471,6 +473,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
@@ -485,6 +488,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Divide and Conquer
