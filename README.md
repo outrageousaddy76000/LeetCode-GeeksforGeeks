@@ -252,6 +252,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2502-sort-the-people) |
@@ -431,6 +432,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1818-maximum-score-from-removing-substrings](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -610,6 +612,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0187-repeated-dna-sequences](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0187-repeated-dna-sequences) |
 | [0526-beautiful-arrangement](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0526-beautiful-arrangement) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -665,6 +668,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1240-stone-game-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1240-stone-game-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2358-number-of-ways-to-split-array) |
 ## Doubly-Linked List
 |  |
