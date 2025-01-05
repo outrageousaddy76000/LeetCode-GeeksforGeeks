@@ -218,6 +218,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [2324-find-triangular-sum-of-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2358-number-of-ways-to-split-array) |
 | [2411-spiral-matrix-iv](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2411-spiral-matrix-iv) |
+| [2465-shifting-letters-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2502-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -438,6 +439,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [2163-kth-distinct-string-in-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2232-adding-spaces-to-a-string](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2232-adding-spaces-to-a-string) |
+| [2465-shifting-letters-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2755-extra-characters-in-a-string) |
@@ -670,6 +672,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2465-shifting-letters-ii) |
 ## Doubly-Linked List
 |  |
 | ------- |
