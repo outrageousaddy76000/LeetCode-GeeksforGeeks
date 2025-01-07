@@ -191,6 +191,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1497-design-a-stack-with-increment-operation](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1511-count-number-of-teams) |
 | [1522-stone-game-iii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1522-stone-game-iii) |
+| [1524-string-matching-in-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1524-string-matching-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1582-design-browser-history](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1582-design-browser-history) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -426,6 +427,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1308-smallest-string-with-swaps](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1308-smallest-string-with-swaps) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1369-minimum-swaps-to-make-strings-equal) |
+| [1524-string-matching-in-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1524-string-matching-in-an-array) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1720-crawler-log-folder](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -699,4 +701,8 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
