@@ -343,6 +343,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2089-maximum-matrix-sum](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2509-minimize-xor](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2509-minimize-xor) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3195-separate-black-and-white-balls](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -628,6 +629,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1786-count-the-number-of-consistent-strings](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2509-minimize-xor](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
