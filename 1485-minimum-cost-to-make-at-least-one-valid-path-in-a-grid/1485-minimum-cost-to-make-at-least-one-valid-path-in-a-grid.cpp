@@ -12,6 +12,7 @@ public:
             }
         }
         //perform bfs from 0,0
+        vector<vector<bool>> visited(grid.size(), vector<bool>(grid[0].size(), false));
         vector<vector<int>> distance(grid.size(), vector<int>(grid[0].size(), INT_MAX));
         deque<pair<int, int>> dq;
 
@@ -22,10 +23,11 @@ public:
         while (!dq.empty()) {
             auto [x, y] = dq.front();
             dq.pop_front();
-
+            if (visited[x][y]) continue;
+            visited[x][y] = true;
             for (auto& neighbor : m[{x, y}]) {
                 int nx = neighbor[0], ny = neighbor[1], cost = neighbor[2];
-                if (distance[x][y] + cost < distance[nx][ny]) {
+                if (!visited[nx][ny] && distance[x][y] + cost < distance[nx][ny]) {
                     distance[nx][ny] = distance[x][y] + cost;
                     if (cost == 0) {
                         dq.push_front({nx, ny});
