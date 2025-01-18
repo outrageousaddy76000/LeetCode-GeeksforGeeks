@@ -130,6 +130,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1308-smallest-string-with-swaps](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1308-smallest-string-with-swaps) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1484-linked-list-in-binary-tree) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2035-count-sub-islands) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -143,6 +144,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1325-path-with-maximum-probability](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1325-path-with-maximum-probability) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3189-find-champion-ii) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -190,6 +192,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1511-count-number-of-teams) |
 | [1522-stone-game-iii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1522-stone-game-iii) |
@@ -523,6 +526,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0948-sort-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1325-path-with-maximum-probability) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Merge Sort
@@ -579,6 +583,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Binary Indexed Tree
 |  |
@@ -608,6 +613,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0870-magic-squares-in-grid](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0999-regions-cut-by-slashes) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2035-count-sub-islands) |
