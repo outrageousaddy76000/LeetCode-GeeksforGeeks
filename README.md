@@ -230,6 +230,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2685-first-completely-painted-row-or-column](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2727-number-of-senior-citizens) |
@@ -271,6 +272,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2685-first-completely-painted-row-or-column](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2755-extra-characters-in-a-string](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -620,6 +622,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [2089-maximum-matrix-sum](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2411-spiral-matrix-iv) |
+| [2685-first-completely-painted-row-or-column](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2685-first-completely-painted-row-or-column) |
 ## Backtracking
 |  |
 | ------- |
