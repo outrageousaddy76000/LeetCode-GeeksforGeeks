@@ -214,6 +214,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [2035-count-sub-islands](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2035-count-sub-islands) |
 | [2089-maximum-matrix-sum](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2145-grid-game](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2145-grid-game) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -621,6 +622,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [2035-count-sub-islands](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2035-count-sub-islands) |
 | [2089-maximum-matrix-sum](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2145-grid-game](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2145-grid-game) |
 | [2411-spiral-matrix-iv](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2411-spiral-matrix-iv) |
 | [2685-first-completely-painted-row-or-column](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2685-first-completely-painted-row-or-column) |
 ## Backtracking
@@ -701,6 +703,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1240-stone-game-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1240-stone-game-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2145-grid-game](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2465-shifting-letters-ii) |
 ## Doubly-Linked List
