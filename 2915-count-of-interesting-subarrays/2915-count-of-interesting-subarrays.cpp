@@ -4,7 +4,7 @@ public:
         int n = nums.size();
         int cnt=0;
         long long ans=0;
-        map <int,int> m;
+        unordered_map <int,int> m;
         for(int i=0;i<n;i++){
             if(nums[i]%modulo==k) cnt++;
             nums[i]=cnt;
