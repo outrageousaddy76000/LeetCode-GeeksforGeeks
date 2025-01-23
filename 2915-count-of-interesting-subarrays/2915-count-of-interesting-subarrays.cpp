@@ -6,7 +6,7 @@ public:
             if(val%modulo==k) val=1;
             else val=0;
         }
-        vector <long long int> pref(n);
+        vector <int> pref(n);
         for(int i=0;i<n;i++){
             if(i) pref[i]=pref[i-1]+nums[i];
             else pref[i]=nums[i];
@@ -14,7 +14,7 @@ public:
         }
         for(auto &val:pref) cout<<val<<" ";
         cout<<endl;
-        map <long long int,long long int> m;
+        map <int,int> m;
         long long ans=0;
         for(int i=0;i<n;i++){
             if(m.find(((pref[i]-k)%modulo + modulo)%modulo)!=m.end()){
