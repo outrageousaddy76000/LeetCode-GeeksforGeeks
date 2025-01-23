@@ -9,8 +9,8 @@ public:
             if(nums[i]%modulo==k) cnt++;
             nums[i]=cnt;
             nums[i]%=modulo;
-            if(m.find(((nums[i]-k)%modulo + modulo)%modulo)!=m.end()){
-                ans+=m[(((nums[i]-k)%modulo + modulo)%modulo)];
+            if(m.find((nums[i]-k + modulo)%modulo)!=m.end()){
+                ans+=m[((nums[i]-k + modulo)%modulo)];
             }
             if(nums[i]%modulo==k) ans++;
             m[nums[i]]++; 
