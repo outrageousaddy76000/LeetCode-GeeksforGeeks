@@ -2,18 +2,14 @@ class Solution {
 public:
     long long countInterestingSubarrays(vector<int>& nums, int modulo, int k) {
         int n = nums.size();
-        for(auto &val:nums){
-            if(val%modulo==k) val=1;
-            else val=0;
-        }
         vector <int> pref(n);
         for(int i=0;i<n;i++){
+            if(nums[i]%modulo==k) nums[i]=1;
+            else nums[i]=0;
             if(i) pref[i]=pref[i-1]+nums[i];
             else pref[i]=nums[i];
             pref[i]%=modulo;
         }
-        for(auto &val:pref) cout<<val<<" ";
-        cout<<endl;
         map <int,int> m;
         long long ans=0;
         for(int i=0;i<n;i++){
