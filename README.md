@@ -106,6 +106,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0365-water-and-jug-problem](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0365-water-and-jug-problem) |
+| [0652-find-duplicate-subtrees](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0652-find-duplicate-subtrees) |
 | [0655-print-binary-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0655-print-binary-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0988-flip-equivalent-binary-trees) |
@@ -264,6 +265,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0187-repeated-dna-sequences](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0187-repeated-dna-sequences) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0560-subarray-sum-equals-k) |
+| [0652-find-duplicate-subtrees](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0652-find-duplicate-subtrees) |
 | [0870-magic-squares-in-grid](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -509,6 +511,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0652-find-duplicate-subtrees) |
 | [0654-maximum-binary-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0654-maximum-binary-tree) |
 | [0655-print-binary-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0655-print-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -525,6 +528,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0652-find-duplicate-subtrees) |
 | [0654-maximum-binary-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0654-maximum-binary-tree) |
 | [0655-print-binary-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0655-print-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0789-kth-largest-element-in-a-stream) |
