@@ -12,7 +12,7 @@
 class Solution {
 public:
     vector <TreeNode*> ans;
-    map <string,int> mp;
+    unordered_map <string,int> mp;
     string findAns(TreeNode* root){
         if(!root) return "";
         string curr=to_string(root->val);
