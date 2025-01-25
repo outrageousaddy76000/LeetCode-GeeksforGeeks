@@ -7,15 +7,11 @@ public:
         }
         sort(v.begin(),v.end());
         int start=0;
+        priority_queue <int,vector <int>, greater<int>> numbers,indexes;
         for(int i=0;i<v.size();i++){
+            numbers.push(v[i].first);
+            indexes.push(v[i].second);
             if(i==v.size()-1 || v[i+1].first-v[i].first>limit){
-                //component break
-                //start to i
-                priority_queue <int,vector <int>, greater<int>> numbers,indexes;
-                for(int j=start;j<=i;j++){
-                    numbers.push(v[j].first);
-                    indexes.push(v[j].second);
-                }
                 for(int j=start;j<=i;j++){
                     nums[indexes.top()]=numbers.top();
                     indexes.pop();
