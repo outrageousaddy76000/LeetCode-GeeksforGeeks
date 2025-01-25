@@ -254,6 +254,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [2833-count-zero-request-servers](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2833-count-zero-request-servers) |
 | [2846-robot-collisions](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2846-robot-collisions) |
 | [2915-count-of-interesting-subarrays](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2915-count-of-interesting-subarrays) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -359,6 +360,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [2699-count-the-number-of-fair-pairs](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2833-count-zero-request-servers](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2833-count-zero-request-servers) |
 | [2846-robot-collisions](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2846-robot-collisions) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
@@ -646,6 +648,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1308-smallest-string-with-swaps](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1308-smallest-string-with-swaps) |
 | [1396-count-servers-that-communicate](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1396-count-servers-that-communicate) |
 | [2035-count-sub-islands](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2035-count-sub-islands) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Matrix
 |  |
 | ------- |
