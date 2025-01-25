@@ -119,6 +119,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1840-minimize-hamming-distance-after-swap-operations](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [2035-count-sub-islands](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2035-count-sub-islands) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -220,6 +221,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1720-crawler-log-folder](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1840-minimize-hamming-distance-after-swap-operations](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [1876-map-of-highest-peak](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1876-map-of-highest-peak) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -647,6 +649,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0999-regions-cut-by-slashes](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0999-regions-cut-by-slashes) |
 | [1308-smallest-string-with-swaps](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1308-smallest-string-with-swaps) |
 | [1396-count-servers-that-communicate](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1396-count-servers-that-communicate) |
+| [1840-minimize-hamming-distance-after-swap-operations](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [2035-count-sub-islands](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2035-count-sub-islands) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Matrix
