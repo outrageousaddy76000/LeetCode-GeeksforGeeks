@@ -35,14 +35,6 @@ public:
             }
         }
     }
-    void printParents(){
-        for(auto &val:parent) cout<<val<<" ";
-        cout<<endl;
-    }
-    void printRanks(){
-        for(auto &val:rank) cout<<val<<" ";
-        cout<<endl;
-    }
 };
 
 
