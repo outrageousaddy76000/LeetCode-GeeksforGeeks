@@ -47,20 +47,16 @@ public:
             dsu.unionSets(v[0],v[1]);
         }
         int ans=0;
-        unordered_map <int,unordered_multiset<int>> mp1,mp2;
+        unordered_map <int,unordered_multiset<int>> mp;
         for(int i=0;i<n;i++){
             int index=dsu.findParent(i);
-            mp1[index].insert(source[i]);
-            mp2[index].insert(target[i]);
+            mp[index].insert(source[i]);
         }
-        for(auto &[index, s1]:mp1){
-            unordered_multiset <int> s2 = mp2[index];
-            //now deal with these 2 multisets
-            for(auto &val:s1){
-                auto it = s2.find(val);
-                if(it==s2.end()) ans++;
-                else s2.erase(it);
-            }
+        for(int i=0;i<n;i++){
+            int index=dsu.findParent(i);
+            auto it = mp[index].find(target[i]);
+            if(it!=mp[index].end()) mp[index].erase(it);
+            else ans++;
         }
         return ans;
     }
