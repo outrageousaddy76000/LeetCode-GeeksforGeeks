@@ -109,6 +109,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0365-water-and-jug-problem](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0365-water-and-jug-problem) |
 | [0652-find-duplicate-subtrees](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0652-find-duplicate-subtrees) |
 | [0655-print-binary-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0655-print-binary-tree) |
+| [0684-redundant-connection](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0684-redundant-connection) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0988-flip-equivalent-binary-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0999-regions-cut-by-slashes) |
@@ -133,6 +134,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0322-coin-change](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0365-water-and-jug-problem) |
 | [0655-print-binary-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0655-print-binary-tree) |
+| [0684-redundant-connection](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0684-redundant-connection) |
 | [0787-sliding-puzzle](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0787-sliding-puzzle) |
 | [0999-regions-cut-by-slashes](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0999-regions-cut-by-slashes) |
 | [1308-smallest-string-with-swaps](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1308-smallest-string-with-swaps) |
@@ -152,6 +154,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0684-redundant-connection) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1325-path-with-maximum-probability) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -652,6 +655,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0684-redundant-connection) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0999-regions-cut-by-slashes) |
 | [1308-smallest-string-with-swaps](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1308-smallest-string-with-swaps) |
