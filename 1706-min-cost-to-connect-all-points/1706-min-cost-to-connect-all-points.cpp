@@ -1,43 +1,68 @@
-class Solution {
+class DSU{
 public:
-    using int2=pair<int, int>;
-    int V;
-    int L1(vector<int>& P, vector<int>& Q){
-        return abs(P[0]-Q[0])+abs(P[1]-Q[1]);
+    vector <int> parent, rank;
+    DSU(int size){
+        parent.resize(size);
+        rank.resize(size);
+        iota(parent.begin(),parent.end(),0);
     }
 
-    vector<vector<int2>> adj;
-    void build_graph(vector<vector<int>>& points){
-        adj.resize(V);
-        for(int i=0; i<V-1; i++){
-            for(int j=i+1; j<V; j++){
-                int&& wt=L1(points[i], points[j]);
-                adj[i].push_back({wt, j});
-                adj[j].push_back({wt, i});
+    int findParent(int x){
+        if(parent[x]==x) return x;
+        return parent[x]=findParent(parent[x]);
+    }
+
+    void unionByRank(int a, int b){
+        int parent1 = findParent(a);
+        int parent2 = findParent(b);
+        if(rank[parent1]>rank[parent2]){
+            parent[parent2]=parent1;
+        }
+        else if(rank[parent2]>rank[parent1]){
+            parent[parent1]=parent2;
+        }
+        else{
+            parent[parent1]=parent2;
+            rank[parent2]++;
+        }
+    }
+};
+
+class Solution {
+private:
+    int findByKruskals(vector <vector<int>> cost){
+        int n = cost.size();
+        int ans=0;
+        DSU dsu(n);
+        priority_queue<pair<int, pair<int, int>>, vector<pair<int, pair<int, int>>>, greater<pair<int, pair<int, int>>>> pq;
+        for(int i=0;i<n;i++){
+            for(int j=i+1;j<n;j++){
+                pq.push(make_pair(cost[i][j],make_pair(i,j)));
             }
         }
-
-    }
-    int minCostConnectPoints(vector<vector<int>>& points) {
-        V=points.size();
-        build_graph(points);
-        priority_queue<int2, vector<int2>, greater<int2>> pq;
-        pq.push({0, 0});
-        vector<bool> visited(V, 0);
-        int ans = 0;
-        int n = 0;
-        while (!pq.empty()) {
-            auto [w, i] = pq.top();
+        int cnt=0;
+        while(cnt<n-1){
+            pair<int,pair<int,int>> top = pq.top();
             pq.pop();
-            if (visited[i]) continue; // Skip visited 
-            visited[i]=1;
-            ans+= w;
-            n++;
-            if (n == V) return ans;
-            for (auto& [wt, j] : adj[i]) {
-                if (!visited[j]) pq.push({wt, j});
+            int first = top.second.first;
+            int second = top.second.second;
+            if(dsu.findParent(first)!= dsu.findParent(second)){
+                dsu.unionByRank(first,second);
+                cnt++;
+                ans+=top.first;
             }
         }
-        return -1;
+        return ans;
+    }
+public:
+    int minCostConnectPoints(vector<vector<int>>& points) {
+        vector <vector<int>> cost(points.size(),vector <int> (points.size(),INT_MAX));
+        for(int i=0;i<points.size();i++){
+            for(int j=i+1;j<points.size();j++){
+                cost[i][j]=abs(points[i][0]-points[j][0]) + abs(points[i][1]-points[j][1]);
+            }
+        }
+        return findByKruskals(cost);
+        // return findByPrims(cost);
     }
 };
