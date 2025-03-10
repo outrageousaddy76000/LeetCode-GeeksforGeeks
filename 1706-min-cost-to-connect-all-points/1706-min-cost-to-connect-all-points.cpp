@@ -54,6 +54,41 @@ private:
         }
         return ans;
     }
+
+    int findByPrims(vector <vector<int>> cost){
+        int n = cost.size();
+        vector <bool> vis(n);
+        priority_queue<pair<int, pair<int, int>>, vector<pair<int, pair<int, int>>>, greater<pair<int, pair<int, int>>>> pq;
+        pq.push({0,{-1,0}});
+        int cnt=0;
+        int ans=0;
+        while(cnt<n){
+            pair<int,pair<int,int>> top = pq.top();
+            pq.pop();
+            int first = top.second.first;
+            int second = top.second.second;
+            if(vis[second]) continue;
+            cnt++;
+            vis[second]=true;
+            ans+=top.first;
+            //push all adjacent nodes of second with cost
+            for(int j=0;j<n;j++){
+                if(vis[j]) continue;
+                if(j<second){
+                    cout<<cost[j][second]<<" ";
+                    pq.push({cost[j][second],{second,j}});
+                }
+                else{
+                    cout<<cost[second][j]<<" ";
+
+                    pq.push({cost[second][j],{second,j}});
+                }
+            }
+                cout<<endl;
+        }
+        return ans;
+    }
+
 public:
     int minCostConnectPoints(vector<vector<int>>& points) {
         vector <vector<int>> cost(points.size(),vector <int> (points.size(),INT_MAX));
@@ -62,7 +97,7 @@ public:
                 cost[i][j]=abs(points[i][0]-points[j][0]) + abs(points[i][1]-points[j][1]);
             }
         }
-        return findByKruskals(cost);
-        // return findByPrims(cost);
+        // return findByKruskals(cost);
+        return findByPrims(cost);
     }
 };
