@@ -75,12 +75,9 @@ private:
             for(int j=0;j<n;j++){
                 if(vis[j]) continue;
                 if(j<second){
-                    cout<<cost[j][second]<<" ";
                     pq.push({cost[j][second],{second,j}});
                 }
                 else{
-                    cout<<cost[second][j]<<" ";
-
                     pq.push({cost[second][j],{second,j}});
                 }
             }
