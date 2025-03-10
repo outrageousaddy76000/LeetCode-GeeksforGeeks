@@ -161,6 +161,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1558-course-schedule-iv) |
+| [1706-min-cost-to-connect-all-points](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1706-min-cost-to-connect-all-points) |
 | [3189-find-champion-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3189-find-champion-ii) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -229,6 +230,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1685-stone-game-v](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1685-stone-game-v) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1706-min-cost-to-connect-all-points](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1706-min-cost-to-connect-all-points) |
 | [1720-crawler-log-folder](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
@@ -666,6 +668,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0999-regions-cut-by-slashes](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0999-regions-cut-by-slashes) |
 | [1308-smallest-string-with-swaps](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1308-smallest-string-with-swaps) |
 | [1396-count-servers-that-communicate](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1396-count-servers-that-communicate) |
+| [1706-min-cost-to-connect-all-points](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1706-min-cost-to-connect-all-points) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [2035-count-sub-islands](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2035-count-sub-islands) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -813,4 +816,8 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
