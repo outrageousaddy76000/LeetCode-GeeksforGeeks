@@ -14,10 +14,8 @@ public:
             if(j==n && (v[0]==0 || v[1] ==0 || v[2]==0) ) break;
             //increase the ans
             ans+=n-j+1;
-            for(auto &val:v) cout<<val<<" ";
             v[s[i]-'a']--;
             i++;
-            cout<<ans<<endl;
         }
         return ans;
     }
