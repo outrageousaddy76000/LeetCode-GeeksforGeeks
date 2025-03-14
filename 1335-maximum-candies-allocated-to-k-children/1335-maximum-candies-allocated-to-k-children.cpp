@@ -4,8 +4,7 @@ private:
         for(int i=0;i<candies.size();i++){
             k-=candies[i]/mid;
         }
-        if(k>0) return false;
-        return true;
+        return k<=0;
     }
 public:
     int maximumCandies(vector<int>& candies, long long k) {
