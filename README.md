@@ -409,6 +409,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0061-rotate-list) |
 | [0725-split-linked-list-in-parts](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1484-linked-list-in-binary-tree) |
@@ -579,12 +580,14 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0023-merge-k-sorted-lists) |
 | [0654-maximum-binary-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0654-maximum-binary-tree) |
 | [0948-sort-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0948-sort-an-array) |
 | [1285-balance-a-binary-search-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1285-balance-a-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0023-merge-k-sorted-lists) |
 | [0658-find-k-closest-elements](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0658-find-k-closest-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -596,6 +599,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0023-merge-k-sorted-lists) |
 | [0948-sort-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
