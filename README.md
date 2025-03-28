@@ -175,6 +175,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | ------- |
 | [0040-combination-sum-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0078-subsets) |
@@ -711,6 +712,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | ------- |
 | [0040-combination-sum-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0131-palindrome-partitioning) |
 | [0526-beautiful-arrangement](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0526-beautiful-arrangement) |
