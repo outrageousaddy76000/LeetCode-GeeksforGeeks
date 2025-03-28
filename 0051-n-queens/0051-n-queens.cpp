@@ -25,7 +25,7 @@ private:
         }
         return false;
     }
-    void solve(int n, int index, vector<int> current){
+    void solve(int n, int index, vector<int> &current){
         if(index==n){
             //place the queens, the queens are at i,current[i]
             place(n, current);
@@ -37,6 +37,7 @@ private:
                 current[index]=i;
                 // cout<<index<<" "<<i<<endl;
                 solve(n,index+1, current);
+                current[index]=-1;
             }
         }
     }
