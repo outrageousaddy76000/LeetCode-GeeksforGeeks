@@ -147,6 +147,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1876-map-of-highest-peak](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2035-count-sub-islands) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -260,6 +261,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [2533-bitwise-xor-of-all-pairings](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -340,6 +342,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2232-adding-spaces-to-a-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3195-separate-black-and-white-balls) |
@@ -377,6 +380,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [2179-most-beautiful-item-for-each-query](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2502-sort-the-people](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -595,6 +599,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0948-sort-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0948-sort-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Merge Sort
@@ -684,6 +689,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1706-min-cost-to-connect-all-points](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1706-min-cost-to-connect-all-points) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [2035-count-sub-islands](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2035-count-sub-islands) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Matrix
@@ -705,6 +711,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [2132-convert-1d-array-into-2d-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2145-grid-game](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2145-grid-game) |
 | [2411-spiral-matrix-iv](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2411-spiral-matrix-iv) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Backtracking
