@@ -35,7 +35,7 @@ private:
             //try to place the queen in the index row, col = i
             if(!blocks(n, current,index,i)){
                 current[index]=i;
-                cout<<index<<" "<<i<<endl;
+                // cout<<index<<" "<<i<<endl;
                 solve(n,index+1, current);
             }
         }
