@@ -488,6 +488,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0043-multiply-strings) |
+| [0071-simplify-path](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0071-simplify-path) |
 | [0131-palindrome-partitioning](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0187-repeated-dna-sequences) |
@@ -538,6 +539,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0071-simplify-path) |
 | [0654-maximum-binary-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0654-maximum-binary-tree) |
 | [1002-maximum-width-ramp](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1197-parsing-a-boolean-expression) |
