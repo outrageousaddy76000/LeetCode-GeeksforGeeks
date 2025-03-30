@@ -4,25 +4,25 @@ private:
     int n, m;
 public:
     DSU(int a, int b) {
-        n = a;  // Rows
-        m = b;  // Columns
+        n = a;
+        m = b; 
         parent.resize(n * m, -1);
         size.resize(n * m, 1);
     }
 
     int find(int node) {
         if (parent[node] < 0) return node;
-        return parent[node] = find(parent[node]);  // Path compression
+        return parent[node] = find(parent[node]);
     }
 
     bool unionFind(int x1, int x2, int y1, int y2) {
-        int p1 = x1 * m + x2;  // Corrected row-major index
+        int p1 = x1 * m + x2;  
         int p2 = y1 * m + y2;
 
         int rootA = find(p1);
         int rootB = find(p2);
 
-        if (rootA == rootB) return false;  // Already in same set
+        if (rootA == rootB) return false;
 
         if (size[rootA] > size[rootB]) {
             parent[rootB] = rootA;
@@ -54,7 +54,7 @@ public:
         }
         sort(q.begin(), q.end());
 
-        DSU dsu(m, n);  // Fixed constructor order
+        DSU dsu(m, n);
         vector<int> ans(k);
         priority_queue<pair<int, pair<int, int>>, vector<pair<int, pair<int, int>>>, greater<>> pq;
 
