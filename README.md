@@ -104,6 +104,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0079-word-search) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0365-water-and-jug-problem](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0365-water-and-jug-problem) |
@@ -180,6 +181,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -491,6 +493,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | ------- |
 | [0043-multiply-strings](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0043-multiply-strings) |
 | [0071-simplify-path](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0187-repeated-dna-sequences) |
@@ -706,6 +709,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | ------- |
 | [0054-spiral-matrix](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0079-word-search) |
 | [0787-sliding-puzzle](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0999-regions-cut-by-slashes) |
@@ -730,6 +734,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0047-permutations-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0131-palindrome-partitioning) |
 | [0526-beautiful-arrangement](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0526-beautiful-arrangement) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
