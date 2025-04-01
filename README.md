@@ -255,6 +255,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2232-adding-spaces-to-a-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2262-solving-questions-with-brainpower](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2262-solving-questions-with-brainpower) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2358-number-of-ways-to-split-array) |
@@ -670,6 +671,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1617-stone-game-iv](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1617-stone-game-iv) |
 | [1685-stone-game-v](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1685-stone-game-v) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2262-solving-questions-with-brainpower](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2262-solving-questions-with-brainpower) |
 | [2755-extra-characters-in-a-string](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2755-extra-characters-in-a-string) |
 ## Shortest Path
 |  |
