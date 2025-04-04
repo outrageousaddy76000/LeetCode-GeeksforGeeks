@@ -465,6 +465,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0043-multiply-strings](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0043-multiply-strings) |
 | [0172-factorial-trailing-zeroes](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0189-rotate-array) |
+| [0223-rectangle-area](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0223-rectangle-area) |
 | [0241-different-ways-to-add-parentheses](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0273-integer-to-english-words) |
 | [0365-water-and-jug-problem](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0365-water-and-jug-problem) |
@@ -876,4 +877,8 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [3001-apply-operations-to-maximize-score](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3001-apply-operations-to-maximize-score) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
