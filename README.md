@@ -190,6 +190,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0179-largest-number](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0189-rotate-array) |
+| [0221-maximal-square](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0416-partition-equal-subset-sum) |
@@ -661,6 +662,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0124-binary-tree-maximum-path-sum](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0131-palindrome-partitioning) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0221-maximal-square](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0241-different-ways-to-add-parentheses) |
 | [0322-coin-change](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0416-partition-equal-subset-sum) |
@@ -723,6 +725,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0079-word-search) |
+| [0221-maximal-square](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0221-maximal-square) |
 | [0787-sliding-puzzle](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0999-regions-cut-by-slashes) |
