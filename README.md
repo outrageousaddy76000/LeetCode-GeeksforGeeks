@@ -466,6 +466,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0172-factorial-trailing-zeroes](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0223-rectangle-area) |
+| [0227-basic-calculator-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0273-integer-to-english-words) |
 | [0365-water-and-jug-problem](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0365-water-and-jug-problem) |
@@ -508,6 +509,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0131-palindrome-partitioning](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0187-repeated-dna-sequences) |
+| [0227-basic-calculator-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0539-minimum-time-difference) |
@@ -556,6 +558,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0071-simplify-path) |
+| [0227-basic-calculator-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0227-basic-calculator-ii) |
 | [0654-maximum-binary-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0654-maximum-binary-tree) |
 | [1002-maximum-width-ramp](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1197-parsing-a-boolean-expression) |
