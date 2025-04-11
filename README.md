@@ -487,6 +487,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1993-sum-of-all-subset-xor-totals](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2645-pass-the-pillow](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2645-pass-the-pillow) |
+| [2998-count-symmetric-integers](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3001-apply-operations-to-maximize-score) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
@@ -866,6 +867,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2998-count-symmetric-integers](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2998-count-symmetric-integers) |
 ## Monotonic Queue
 |  |
 | ------- |
