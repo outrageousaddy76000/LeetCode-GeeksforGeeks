@@ -5,10 +5,9 @@ public:
         int mini=INT_MAX;
         for(auto &val:nums){
             m[val]++;
-            mini=min(mini,val);
+            if(val<k) return -1;
         }
-        if(k>mini) return -1;
-        else if(k==mini) return m.size()-1;
-        else return m.size();
+        if(m.find(k)!=m.end()) return m.size()-1;
+        return m.size();
     }
 };
