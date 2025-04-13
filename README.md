@@ -493,6 +493,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1685-stone-game-v](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1685-stone-game-v) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2050-count-good-numbers](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2050-count-good-numbers) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2645-pass-the-pillow](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2645-pass-the-pillow) |
 | [2998-count-symmetric-integers](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2998-count-symmetric-integers) |
@@ -506,6 +507,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0273-integer-to-english-words](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0273-integer-to-english-words) |
 | [1197-parsing-a-boolean-expression](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1197-parsing-a-boolean-expression) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2050-count-good-numbers](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2050-count-good-numbers) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Queue
 |  |
