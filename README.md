@@ -284,6 +284,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [2792-neighboring-bitwise-xor](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2792-neighboring-bitwise-xor) |
 | [2833-count-zero-request-servers](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2833-count-zero-request-servers) |
 | [2846-robot-collisions](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2846-robot-collisions) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3001-apply-operations-to-maximize-score) |
@@ -338,6 +339,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [2755-extra-characters-in-a-string](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2833-count-zero-request-servers](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2833-count-zero-request-servers) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2915-count-of-interesting-subarrays) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -724,6 +726,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2833-count-zero-request-servers](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2833-count-zero-request-servers) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Union Find
 |  |
