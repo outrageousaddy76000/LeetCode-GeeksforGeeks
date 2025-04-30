@@ -224,6 +224,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1370-count-number-of-nice-subarrays](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1370-count-number-of-nice-subarrays) |
 | [1396-count-servers-that-communicate](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -490,6 +491,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1240-stone-game-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1240-stone-game-ii) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1370-count-number-of-nice-subarrays](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1370-count-number-of-nice-subarrays) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1477-product-of-the-last-k-numbers) |
 | [1522-stone-game-iii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1617-stone-game-iv) |
