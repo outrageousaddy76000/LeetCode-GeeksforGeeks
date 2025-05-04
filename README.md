@@ -214,6 +214,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1025-minimum-cost-for-tickets](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1025-minimum-cost-for-tickets) |
 | [1121-partition-array-for-maximum-sum](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1121-partition-array-for-maximum-sum) |
 | [1196-filling-bookcase-shelves](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1196-filling-bookcase-shelves) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1240-stone-game-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1256-rank-transform-of-an-array) |
 | [1308-smallest-string-with-swaps](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1308-smallest-string-with-swaps) |
@@ -316,6 +317,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0999-regions-cut-by-slashes](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0999-regions-cut-by-slashes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1256-rank-transform-of-an-array) |
 | [1308-smallest-string-with-swaps](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1308-smallest-string-with-swaps) |
 | [1370-count-number-of-nice-subarrays](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1370-count-number-of-nice-subarrays) |
@@ -668,6 +670,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0948-sort-an-array) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1396-count-servers-that-communicate](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
