@@ -217,6 +217,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1227-number-of-equivalent-domino-pairs](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1240-stone-game-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1256-rank-transform-of-an-array) |
+| [1293-three-consecutive-odds](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1293-three-consecutive-odds) |
 | [1308-smallest-string-with-swaps](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1308-smallest-string-with-swaps) |
 | [1325-path-with-maximum-probability](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1333-sort-the-jumbled-numbers) |
