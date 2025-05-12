@@ -261,6 +261,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2215-finding-3-digit-even-numbers](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2215-finding-3-digit-even-numbers) |
 | [2232-adding-spaces-to-a-string](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2232-adding-spaces-to-a-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2262-solving-questions-with-brainpower](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2262-solving-questions-with-brainpower) |
@@ -332,6 +333,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2215-finding-3-digit-even-numbers](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2215-finding-3-digit-even-numbers) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2502-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -406,6 +408,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2215-finding-3-digit-even-numbers](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2215-finding-3-digit-even-numbers) |
 | [2502-sort-the-people](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -890,6 +893,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2215-finding-3-digit-even-numbers](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3548-find-the-count-of-good-integers) |
 ## Monotonic Queue
