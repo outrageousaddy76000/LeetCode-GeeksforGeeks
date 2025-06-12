@@ -305,6 +305,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
 | ------- |
