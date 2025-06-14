@@ -191,6 +191,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0189-rotate-array) |
 | [0221-maximal-square](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0221-maximal-square) |
+| [0229-majority-element-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0229-majority-element-ii) |
 | [0322-coin-change](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0368-largest-divisible-subset) |
@@ -310,6 +311,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0187-repeated-dna-sequences) |
+| [0229-majority-element-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0560-subarray-sum-equals-k) |
 | [0652-find-duplicate-subtrees](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0652-find-duplicate-subtrees) |
@@ -397,6 +399,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0179-largest-number) |
+| [0229-majority-element-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0539-minimum-time-difference) |
@@ -678,6 +681,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 ## Counting Sort
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0229-majority-element-ii) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0948-sort-an-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1227-number-of-equivalent-domino-pairs) |
