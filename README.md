@@ -445,6 +445,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [2509-minimize-xor](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2509-minimize-xor) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2681-put-marbles-in-bags](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2681-put-marbles-in-bags) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3001-apply-operations-to-maximize-score](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3195-separate-black-and-white-balls](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3195-separate-black-and-white-balls) |
@@ -510,6 +511,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [2050-count-good-numbers](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2050-count-good-numbers) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2645-pass-the-pillow](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2645-pass-the-pillow) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2998-count-symmetric-integers](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3001-apply-operations-to-maximize-score) |
 | [3548-find-the-count-of-good-integers](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3548-find-the-count-of-good-integers) |
