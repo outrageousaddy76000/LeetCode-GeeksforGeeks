@@ -305,6 +305,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3634-minimum-removals-to-balance-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3634-minimum-removals-to-balance-array) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
@@ -428,6 +429,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [3001-apply-operations-to-maximize-score](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3634-minimum-removals-to-balance-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3634-minimum-removals-to-balance-array) |
 ## Greedy
 |  |
 | ------- |
@@ -748,6 +750,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [2833-count-zero-request-servers](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2833-count-zero-request-servers) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/3634-minimum-removals-to-balance-array) |
 ## Union Find
 |  |
 | ------- |
