@@ -108,6 +108,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0124-binary-tree-maximum-path-sum](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0365-water-and-jug-problem](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0365-water-and-jug-problem) |
+| [0623-add-one-row-to-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0652-find-duplicate-subtrees) |
 | [0655-print-binary-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0655-print-binary-tree) |
 | [0684-redundant-connection](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0684-redundant-connection) |
@@ -135,6 +136,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | ------- |
 | [0322-coin-change](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0365-water-and-jug-problem) |
+| [0623-add-one-row-to-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0623-add-one-row-to-tree) |
 | [0655-print-binary-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0655-print-binary-tree) |
 | [0684-redundant-connection](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0684-redundant-connection) |
 | [0787-sliding-puzzle](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0787-sliding-puzzle) |
@@ -615,6 +617,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0652-find-duplicate-subtrees) |
 | [0654-maximum-binary-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0654-maximum-binary-tree) |
 | [0655-print-binary-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0655-print-binary-tree) |
@@ -634,6 +637,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0652-find-duplicate-subtrees) |
 | [0654-maximum-binary-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0654-maximum-binary-tree) |
 | [0655-print-binary-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0655-print-binary-tree) |
