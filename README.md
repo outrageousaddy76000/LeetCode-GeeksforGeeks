@@ -211,6 +211,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0909-stone-game](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0909-stone-game) |
 | [0926-find-and-replace-pattern](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0926-find-and-replace-pattern) |
 | [0948-sort-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0948-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0973-k-closest-points-to-origin) |
 | [0999-regions-cut-by-slashes](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1002-maximum-width-ramp) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -408,6 +409,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0539-minimum-time-difference](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0539-minimum-time-difference) |
 | [0658-find-k-closest-elements](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0948-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0973-k-closest-points-to-origin) |
 | [1256-rank-transform-of-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1256-rank-transform-of-an-array) |
 | [1308-smallest-string-with-swaps](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1308-smallest-string-with-swaps) |
 | [1333-sort-the-jumbled-numbers](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1333-sort-the-jumbled-numbers) |
@@ -505,6 +507,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0670-maximum-swap](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0870-magic-squares-in-grid) |
 | [0909-stone-game](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0909-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0973-k-closest-points-to-origin) |
 | [1240-stone-game-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1240-stone-game-ii) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1370-count-number-of-nice-subarrays](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1370-count-number-of-nice-subarrays) |
@@ -658,6 +661,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0023-merge-k-sorted-lists](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0023-merge-k-sorted-lists) |
 | [0654-maximum-binary-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0654-maximum-binary-tree) |
 | [0948-sort-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0948-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0973-k-closest-points-to-origin) |
 | [1285-balance-a-binary-search-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1285-balance-a-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
@@ -667,6 +671,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0789-kth-largest-element-in-a-stream](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0948-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0973-k-closest-points-to-origin) |
 | [1325-path-with-maximum-probability](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -941,4 +946,9 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0223-rectangle-area) |
+| [0973-k-closest-points-to-origin](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
