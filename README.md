@@ -320,6 +320,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0560-subarray-sum-equals-k) |
 | [0652-find-duplicate-subtrees](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0652-find-duplicate-subtrees) |
+| [0869-reordered-power-of-2](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0869-reordered-power-of-2) |
 | [0870-magic-squares-in-grid](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -410,6 +411,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0368-largest-divisible-subset](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0539-minimum-time-difference) |
 | [0658-find-k-closest-elements](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0658-find-k-closest-elements) |
+| [0869-reordered-power-of-2](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0869-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0948-sort-an-array) |
 | [0969-pancake-sorting](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0969-pancake-sorting) |
 | [0973-k-closest-points-to-origin](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0973-k-closest-points-to-origin) |
@@ -509,6 +511,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0539-minimum-time-difference](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0592-fraction-addition-and-subtraction) |
 | [0670-maximum-swap](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0670-maximum-swap) |
+| [0869-reordered-power-of-2](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0869-reordered-power-of-2) |
 | [0870-magic-squares-in-grid](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0870-magic-squares-in-grid) |
 | [0909-stone-game](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0909-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0973-k-closest-points-to-origin) |
@@ -699,6 +702,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0229-majority-element-ii) |
+| [0869-reordered-power-of-2](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0869-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0948-sort-an-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -921,6 +925,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [0869-reordered-power-of-2](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0869-reordered-power-of-2) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/2215-finding-3-digit-even-numbers) |
