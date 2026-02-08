@@ -211,6 +211,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0909-stone-game](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0909-stone-game) |
 | [0926-find-and-replace-pattern](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0926-find-and-replace-pattern) |
 | [0948-sort-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0948-sort-an-array) |
+| [0969-pancake-sorting](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0969-pancake-sorting) |
 | [0973-k-closest-points-to-origin](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0973-k-closest-points-to-origin) |
 | [0999-regions-cut-by-slashes](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1002-maximum-width-ramp) |
@@ -372,6 +373,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0658-find-k-closest-elements) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0793-swap-adjacent-in-lr-string) |
+| [0969-pancake-sorting](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0969-pancake-sorting) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -409,6 +411,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0539-minimum-time-difference](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0539-minimum-time-difference) |
 | [0658-find-k-closest-elements](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0948-sort-an-array) |
+| [0969-pancake-sorting](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0969-pancake-sorting) |
 | [0973-k-closest-points-to-origin](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0973-k-closest-points-to-origin) |
 | [1256-rank-transform-of-an-array](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1256-rank-transform-of-an-array) |
 | [1308-smallest-string-with-swaps](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1308-smallest-string-with-swaps) |
@@ -441,6 +444,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0179-largest-number](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0624-maximum-distance-in-arrays) |
 | [0670-maximum-swap](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0670-maximum-swap) |
+| [0969-pancake-sorting](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/0969-pancake-sorting) |
 | [1285-balance-a-binary-search-tree](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1285-balance-a-binary-search-tree) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1502-construct-k-palindrome-strings](https://github.com/outrageousaddy76000/LeetCode-GeeksforGeeks/tree/master/1502-construct-k-palindrome-strings) |
